@@ -1,0 +1,338 @@
+{
+  "maquinas": [
+    {
+      "id": "1571",
+      "codigo": "M002",
+      "nome": "Fresadora",
+      "modelo": "F500",
+      "fabricante": "Bosch",
+      "dataAquisicao": "2021-05-20",
+      "tempoVidaEstimado": 8,
+      "localizacao": "Linha 2",
+      "detalhes": "Alta precisão em usinagem",
+      "manual": "URL do manual"
+    },
+    {
+      "id": "bf72",
+      "codigo": "M003",
+      "nome": "Fresadora",
+      "modelo": "F500",
+      "fabricante": "Bosch",
+      "dataAquisicao": "2021-05-20",
+      "tempoVidaEstimado": 8,
+      "localizacao": "Linha 2",
+      "detalhes": "Alta precisão em usinagem",
+      "manual": "URL do manual"
+    },
+    {
+      "id": "d6744d44-9262-4d23-bd88-e5ae4816d550",
+      "tempoVidaEstimado": 1,
+      "codigo": "1",
+      "localizacao": "1",
+      "nome": "1",
+      "fabricante": "1",
+      "manual": "1",
+      "modelo": "1",
+      "dataAquisicao": "2024-10-11",
+      "detalhes": "1"
+    },
+    {
+      "id": "a7a04985-4d60-4297-834a-4c672383b9ac",
+      "tempoVidaEstimado": 2,
+      "codigo": "2",
+      "localizacao": "2",
+      "nome": "2",
+      "fabricante": "2",
+      "manual": "2",
+      "modelo": "2",
+      "dataAquisicao": "2024-10-11",
+      "detalhes": "2"
+    },
+    {
+      "id": "a7a04985-4d60-4297-834a-4c672383b9ac",
+      "tempoVidaEstimado": 2,
+      "codigo": "1",
+      "localizacao": "2",
+      "nome": "2",
+      "fabricante": "2",
+      "manual": "2",
+      "modelo": "2",
+      "dataAquisicao": "2024-10-11",
+      "detalhes": "2"
+    },
+    {
+      "id": "31315f6a-6d89-49b0-9e36-89a9391d2622",
+      "tempoVidaEstimado": 1,
+      "codigo": "1",
+      "localizacao": "1",
+      "nome": "1",
+      "fabricante": "1",
+      "manual": "1",
+      "modelo": "1",
+      "dataAquisicao": "2024-10-16",
+      "detalhes": "1"
+    },
+    {
+      "id": "8a41dd04-5259-4064-86c1-e640eefc2897",
+      "tempoVidaEstimado": 1,
+      "codigo": "1",
+      "localizacao": "1",
+      "nome": "1",
+      "fabricante": "1",
+      "manual": "1",
+      "modelo": "1",
+      "dataAquisicao": "2024-10-16",
+      "detalhes": "1"
+    },
+    {
+      "id": "fa6466e0-765d-480f-9b4c-af9ba244fe80",
+      "tempoVidaEstimado": 3,
+      "codigo": "3",
+      "localizacao": "3",
+      "nome": "3",
+      "fabricante": "3",
+      "manual": "3",
+      "modelo": "3",
+      "dataAquisicao": "2024-10-16",
+      "detalhes": "3"
+    },
+    {
+      "id": "31b507eb-f698-4cca-a5fd-1926e0b8626b",
+      "tempoVidaEstimado": 4,
+      "codigo": "4",
+      "localizacao": "4",
+      "nome": "4",
+      "fabricante": "4",
+      "manual": "4",
+      "modelo": "4",
+      "dataAquisicao": "2024-10-16",
+      "detalhes": "4"
+    },
+    {
+      "id": "31b507eb-f698-4cca-a5fd-1926e0b8626b",
+      "tempoVidaEstimado": 4,
+      "codigo": "5",
+      "localizacao": "4",
+      "nome": "4",
+      "fabricante": "4",
+      "manual": "4",
+      "modelo": "4",
+      "dataAquisicao": "2024-10-16",
+      "detalhes": "4"
+    },
+    {
+      "id": "0032050d-1a86-411b-a83d-409cf9ac98d7",
+      "tempoVidaEstimado": 6,
+      "codigo": "6",
+      "localizacao": "6",
+      "nome": "6",
+      "fabricante": "",
+      "manual": "6",
+      "modelo": "6",
+      "dataAquisicao": "2024-10-17",
+      "detalhes": "6"
+    },
+    {
+      "id": "0032050d-1a86-411b-a83d-409cf9ac98d7",
+      "tempoVidaEstimado": 6,
+      "codigo": "5",
+      "localizacao": "6",
+      "nome": "6",
+      "fabricante": "",
+      "manual": "6",
+      "modelo": "6",
+      "dataAquisicao": "2024-10-17",
+      "detalhes": "6"
+    },
+    {
+      "id": "93f506b6-6a89-42bb-8ac8-10ce34a93f60",
+      "tempoVidaEstimado": 20,
+      "codigo": "F800",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-001",
+      "modelo": "HORIZONTAL",
+      "dataAquisicao": "2024-10-18",
+      "detalhes": "SEMI NOVA"
+    },
+    {
+      "id": "93f506b6-6a89-42bb-8ac8-10ce34a93f60",
+      "tempoVidaEstimado": 20,
+      "codigo": "F801",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-001",
+      "modelo": "HORIZONTAL",
+      "dataAquisicao": "2024-10-18",
+      "detalhes": "SEMI NOVA"
+    },
+    {
+      "id": "e6b676f0-996f-46fa-ad96-26224cd804f8",
+      "tempoVidaEstimado": 20,
+      "codigo": "F802",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-001",
+      "modelo": "HORIZONTAL",
+      "dataAquisicao": "2024-10-18",
+      "detalhes": "SEMI NOVA"
+    },
+    {
+      "id": "e6b676f0-996f-46fa-ad96-26224cd804f8",
+      "tempoVidaEstimado": 20,
+      "codigo": "F803",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-001",
+      "modelo": "HORIZONTAL",
+      "dataAquisicao": "2024-10-18",
+      "detalhes": "SEMI NOVA"
+    }
+  ],
+  "historicoManutencao": [
+    {
+      "id": "1",
+      "maquinaId": 1,
+      "data": "2024-10-07",
+      "tipo": "Preventiva",
+      "pecasTrocadas": "Correia",
+      "tempoDeParada": 4,
+      "tecnicoId": "João Silva",
+      "observacoes": "Substituição preventiva da correia."
+    },
+    {
+      "id": "2",
+      "maquinaId": 2,
+      "data": "2024-10-07",
+      "tipo": "Preventiva",
+      "pecasTrocadas": "Correia",
+      "tempoDeParada": 4,
+      "tecnicoId": "João Silva",
+      "observacoes": "Substituição preventiva da correia."
+    },
+    {
+      "tempoDeParada": 2,
+      "observacoes": "2",
+      "tipo": "2",
+      "data": "2024-10-16",
+      "maquinaId": 1,
+      "pecasTrocadas": "1",
+      "tecnicoId": "2",
+      "id": "9b13"
+    },
+    {
+      "id": "e24d",
+      "tempoDeParada": 4,
+      "observacoes": "4",
+      "tipo": "4",
+      "data": "2024-10-16",
+      "maquinaId": 4,
+      "pecasTrocadas": "4",
+      "tecnicoId": "4"
+    },
+    {
+      "id": "b0f8",
+      "tempoDeParada": 5,
+      "observacoes": "5",
+      "tipo": "5",
+      "data": "2024-10-16",
+      "maquinaId": 5,
+      "pecasTrocadas": "5",
+      "tecnicoId": "5"
+    },
+    {
+      "tempoDeParada": 6,
+      "observacoes": "6",
+      "tipo": "5",
+      "data": "2024-10-17",
+      "maquinaId": 6,
+      "pecasTrocadas": "6",
+      "tecnicoId": "6",
+      "id": "d565"
+    },
+    {
+      "id": "ce6b",
+      "tempoDeParada": 2,
+      "observacoes": "OXIDO VISUAL",
+      "tipo": "CORRETIVA",
+      "data": "2024-10-18",
+      "maquinaId": 15,
+      "pecasTrocadas": "EIXO",
+      "tecnicoId": "THIAGO"
+    }
+  ],
+  "falhas": [
+    {
+      "id": "1",
+      "maquinaId": 1,
+      "data": "2024-09-28",
+      "problema": "Falha no motor",
+      "prioridade": "Alta",
+      "operador": "Carlos Lima"
+    },
+    {
+      "id": "2",
+      "maquinaId": 2,
+      "data": "2024-09-28",
+      "problema": "Falha no motor",
+      "prioridade": "Alta",
+      "operador": "Carlos Lima"
+    },
+    {
+      "id": "ca96",
+      "data": "2024-10-17",
+      "prioridade": "1",
+      "maquinaId": 1,
+      "problema": "1",
+      "operador": "1"
+    },
+    {
+      "id": "fe36",
+      "data": "2024-10-17",
+      "prioridade": "3",
+      "maquinaId": 3,
+      "problema": "3",
+      "operador": "3"
+    },
+    {
+      "data": "2024-10-17",
+      "prioridade": "4",
+      "maquinaId": 4,
+      "problema": "3",
+      "id": "4782",
+      "operador": "4"
+    },
+    {
+      "id": "09cc",
+      "data": "2024-10-18",
+      "prioridade": "2",
+      "maquinaId": 12,
+      "problema": "DIMENSIONAL",
+      "operador": "LUCAS"
+    }
+  ],
+  "tecnicos": [
+    {
+      "id": "2",
+      "nome": "Ruan Silva",
+      "especialidade": "Mecânica",
+      "disponibilidade": "Livre"
+    },
+    {
+      "especialidade": "1",
+      "disponibilidade": "1",
+      "nome": "2",
+      "id": "d9ce"
+    },
+    {
+      "id": "ba4b",
+      "especialidade": "PNEUMATICA",
+      "disponibilidade": "SIM",
+      "nome": "SANTOS"
+    }
+  ]
+}
