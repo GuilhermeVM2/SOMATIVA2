@@ -191,6 +191,42 @@
       "modelo": "HORIZONTAL",
       "dataAquisicao": "2024-10-18",
       "detalhes": "SEMI NOVA"
+    },
+    {
+      "id": "e6b676f0-996f-46fa-ad96-26224cd804f8",
+      "tempoVidaEstimado": 20,
+      "codigo": "F803",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-001",
+      "modelo": "HORIZONTAL",
+      "dataAquisicao": "2024-10-18",
+      "detalhes": "SEMI NOVA"
+    },
+    {
+      "id": "f00fbb4d-3440-4a9b-bdf3-999319e7f7ee",
+      "tempoVidaEstimado": 20,
+      "codigo": "F804",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-0001",
+      "modelo": "HORIZONTAL",
+      "dataAquisicao": "2024-10-22",
+      "detalhes": "SEMI NOVO"
+    },
+    {
+      "id": "f00fbb4d-3440-4a9b-bdf3-999319e7f7ee",
+      "tempoVidaEstimado": 20,
+      "codigo": "F805",
+      "localizacao": "USINAGEM",
+      "nome": "VEKER",
+      "fabricante": "ROMI",
+      "manual": "PHP-0001",
+      "modelo": "VERTICAL",
+      "dataAquisicao": "2024-10-22",
+      "detalhes": "SEMI NOVO"
     }
   ],
   "historicoManutencao": [
@@ -255,14 +291,14 @@
       "id": "d565"
     },
     {
-      "id": "ce6b",
       "tempoDeParada": 2,
       "observacoes": "OXIDO VISUAL",
-      "tipo": "CORRETIVA",
+      "tipo": "CORRETIVO",
       "data": "2024-10-18",
       "maquinaId": 15,
       "pecasTrocadas": "EIXO",
-      "tecnicoId": "THIAGO"
+      "tecnicoId": "THIAGO",
+      "id": "ce6b"
     }
   ],
   "falhas": [
@@ -307,11 +343,11 @@
       "operador": "4"
     },
     {
-      "id": "09cc",
       "data": "2024-10-18",
       "prioridade": "2",
       "maquinaId": 12,
-      "problema": "DIMENSIONAL",
+      "problema": "DIMENSIONAL1",
+      "id": "09cc",
       "operador": "LUCAS"
     }
   ],
@@ -329,10 +365,10 @@
       "id": "d9ce"
     },
     {
-      "id": "ba4b",
       "especialidade": "PNEUMATICA",
       "disponibilidade": "SIM",
-      "nome": "SANTOS"
+      "nome": "SANTOS1",
+      "id": "ba4b"
     }
   ]
 }
